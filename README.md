@@ -186,8 +186,8 @@ Staff	staff	staff123	Sell products only
 
 🧑‍🏫 Author
 
-Developed by: vamshi
-📧 Email: vamshibannu66@zohomail.in
+Developed by: Narasimha
+📧 Email: narasimhapasupuleti7730@gmail.com
 
 
 ---
