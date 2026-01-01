@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# SQLite Database (local)
+inventory.db
+
+# Streamlit cache
+.streamlit/
